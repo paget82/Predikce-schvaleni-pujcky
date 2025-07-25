@@ -6,7 +6,6 @@ Společnost má zájem o automatizaci procesu schvalování půjček na základ�
 
 ##  Soubory ke stažení
 -  [Jupyter Notebook](predikce%20schvaleni%20pujcky.ipynb) – Predikce schválení půjčky + Postup
--  https://github.com/paget82/Predikce-schvaleni-pujcky/blob/main/predikce%20schvaleni%20pujcky.ipynb
 -  [CSV](loan.csv) – Dataset
 
 
