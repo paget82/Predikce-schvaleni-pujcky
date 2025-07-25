@@ -5,7 +5,7 @@
 Společnost má zájem o automatizaci procesu schvalování půjček na základě informací poskytnutých zákazníky při vyplňování online žádosti. Vývoj modelů strojového učení by měl společnosti umožnit lépe předpovídat schválení půjčky a zároveň urychlit rozhodování o tom, zda žadatel splňuje podmínky pro její získání.
 
 ##  Soubory ke stažení
--  [Jupyter Notebook](predikce-schvaleni-pujcky.ipynb) – Predikce schválení půjčky + Postup
+-  [Jupyter Notebook](Predikce-schvaleni-pujcky.ipynb) – Predikce schválení půjčky + Postup
 -  [CSV](loan.csv) – Dataset
 
 
