@@ -5,8 +5,8 @@
 Společnost má zájem o automatizaci procesu schvalování půjček na základě informací poskytnutých zákazníky při vyplňování online žádosti. Vývoj modelů strojového učení by měl společnosti umožnit lépe předpovídat schválení půjčky a zároveň urychlit rozhodování o tom, zda žadatel splňuje podmínky pro její získání.
 
 ##  Soubory ke stažení
--  [Jupyter Notebook](segmentace.ipynb) – Segmentace zákazníků nákupního centra + Postup
--  [CSV](Mall_Customers.csv) – Dataset
+-  [Jupyter Notebook](predikce-schvaleni-pujcky.ipynb) – Predikce schválení půjčky + Postup
+-  [CSV](loan.csv) – Dataset
 
 
 ## Postup 
@@ -33,9 +33,8 @@ Tato datová sada obsahuje 13 proměnných:
 
 
 
-
-
 ### Data: 
+* 614 záznamů
 * Loan_ID – Referenční číslo půjčky (unikátní ID)
 * Gender – Pohlaví žadatele (Muž nebo Žena)
 * Married – Rodinný stav žadatele (ženatý/vdaná nebo svobodný/á)
