@@ -1,0 +1,1 @@
+# Predikce-schvaleni-pujcky
