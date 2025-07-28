@@ -4,12 +4,12 @@
 
 Společnost má zájem o automatizaci procesu schvalování půjček na základě informací poskytnutých zákazníky při vyplňování online žádosti. Vývoj modelů strojového učení by měl společnosti umožnit lépe předpovídat schválení půjčky a zároveň urychlit rozhodování o tom, zda žadatel splňuje podmínky pro její získání.
 
-##  Soubory ke stažení
+##  Soubory ke stažení:
 -  [Jupyter Notebook](predikce%20schvaleni%20pujcky.ipynb) – Predikce schválení půjčky + Postup
 -  [CSV](loan.csv) – Dataset
 
 
-## Postup 
+## Zadání:
 *   Analyzovat zákaznická data poskytnutá v datové sadě (EDA)
 *   Vytvořit různé modely strojového učení, které dokážou předpovědět schválení půjčky
 
@@ -25,7 +25,7 @@ Společnost má zájem o automatizaci procesu schvalování půjček na základ�
 7. Gradient Boost
 
 
-## Popis datové sady
+## Popis datové sady:
 Tato datová sada obsahuje 13 proměnných:
 * 8 kategoriálních proměnných,
 * 4 spojité proměnné a
