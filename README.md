@@ -51,4 +51,4 @@ Tato datová sada obsahuje 13 proměnných:
 
 ### Výsledek:
 Obecně lze říci, že všechny modely mohou dosáhnout až 70% přesnosti.
-Nejvyšší dosažená přesnost je 93 %.
+Nejvyšší dosažená přesnost je 81 %.
